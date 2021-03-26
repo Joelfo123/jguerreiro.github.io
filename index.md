@@ -1,5 +1,7 @@
 # PORTFOLIO JGUERREIRO
+
 _Olá bem-vindo(a)! Você chegou na minha página do github._ 
+
 ## Quick Bio
 
  - Me chamo Joel e sou apaixonado por tecnologia;
@@ -9,10 +11,12 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 
 ## Aqui te apresento os meus projetos com programação.
 
+```
 1. Mobile
 2. Front-end
 3. Protótipos de Interface Gráfica
 4. Linux
+```
 
 ## Artigos
 
