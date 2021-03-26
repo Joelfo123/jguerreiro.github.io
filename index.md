@@ -1,6 +1,7 @@
 ## PORTFOLIO JGUERREIRO
 ###BIO
 
+```markdown
 Olá bem-vindos! Você chegou na minha página do github. 
 Me chamo Joel e em breve me formo em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP. 
 
@@ -12,7 +13,7 @@ Gostaria de te apresentar um pouco dos meus projetos com programação.
 3. Protótipos de Interface Gráfica
 4. Linux
 
-
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
