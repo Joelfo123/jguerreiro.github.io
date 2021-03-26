@@ -7,7 +7,7 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
  - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br);
  - [Linkedin](https://www.linkedin.com/in/joel-guerreiro-a35866108)
  - [Github](https://github.com/Joelfo123)
- - [CV](url)
+ - [CV/Resume](url)
  
 # Projetos
 
@@ -16,15 +16,10 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 3. [Protótipos de Interface Gráfica](url)
 4. [Linux](url)
 
-# Artigos
+# Blog
 
-- [Artigo](url)
+- [Artigo](https://techrookie1987.blogspot.com)
 
-- [Artigo](url)
-
-- [Artigo](url)
-
-- [Artigo](url)
 
 [Link](url) and ![Image](archlinux.jpg)
 
