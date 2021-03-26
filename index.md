@@ -1,6 +1,6 @@
-```
-_Olá bem-vindo(a)! Você chegou na minha página do github._ 
-```
+
+# _Olá bem-vindo(a)! Você chegou na minha página do github._ 
+
 # Quick Bio
 ```
  - Me chamo Joel e sou apaixonado por tecnologia;
@@ -15,7 +15,7 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 4. Linux
 ```
 
-## Artigos
+# Artigos
 
 ```
 - Artigo 1
