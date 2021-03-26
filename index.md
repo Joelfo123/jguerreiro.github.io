@@ -23,9 +23,6 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 
 2. [Front-end](url)
 
-3. [Protótipos de Interface Gráfica](url)
-
-4. [Linux](url)
 
 
 # Blog
