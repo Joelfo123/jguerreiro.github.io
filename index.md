@@ -1,6 +1,9 @@
 
 _Olá bem-vindo(a)! Você chegou na minha página do github._ 
 
+
+![Image](Archlinux.png)
+
 # Quick Bio
 
  - Me chamo Joel e sou apaixonado por tecnologia;
@@ -26,8 +29,6 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 
 - [Artigo](https://techrookie1987.blogspot.com)
 
-
-[Link](url) and ![Image](archlinux.jpg)
 
 # Contato
 ### joel.borghi@gmail.com
