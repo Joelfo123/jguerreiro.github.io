@@ -4,7 +4,10 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 # Quick Bio
 
  - Me chamo Joel e sou apaixonado por tecnologia;
- - Sou graduando em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP;
+ - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br);
+ - [Linkedin](url)
+ - [Github](url)
+ - [CV](url)
  
 # Projetos
 
