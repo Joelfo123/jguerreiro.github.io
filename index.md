@@ -1,19 +1,17 @@
 ## PORTFOLIO JGUERREIRO
-###BIO
+### BIO
 
-```markdown
 Olá bem-vindos! Você chegou na minha página do github. 
 Me chamo Joel e em breve me formo em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP. 
 
 Gostaria de te apresentar um pouco dos meus projetos com programação.
 
-##PROJETOS
+## PROJETOS
 1. Front-end
 2. Back-end
 3. Protótipos de Interface Gráfica
 4. Linux
 
-```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -40,9 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 
 
-### Support or Contact
-
-#CONTATO
+### Contato
 joel.borghi@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
