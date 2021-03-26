@@ -35,4 +35,4 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 
 # Contato
 
--joel.borghi@gmail.com
+- joel.borghi@gmail.com
