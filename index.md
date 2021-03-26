@@ -1,5 +1,5 @@
 
-_Olá bem-vindo(a)! Você chegou na minha página do github._ 
+_Olá bem-vindo(a)! Você chegou a minha página do github._ 
 
 
 ![Image](Archlinux.png)
@@ -27,8 +27,8 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 
 # Blog
 
-- [Artigo](https://techrookie1987.blogspot.com)
+- [Artigos](https://techrookie1987.blogspot.com)
 
 
 # Contato
-### joel.borghi@gmail.com
+[joel.borghi@gmail.com]
