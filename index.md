@@ -5,9 +5,9 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
  - Me chamo Joel e sou apaixonado por tecnologia;
  - Sou graduando em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP;
  
-## PROJETOS
+# PROJETOS
 
-# Aqui te apresento os meus projetos com programação.
+## Aqui te apresento os meus projetos com programação.
 
 1. Mobile
 2. Front-end
