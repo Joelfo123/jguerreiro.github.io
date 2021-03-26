@@ -30,4 +30,4 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 [Link](url) and ![Image](archlinux.jpg)
 
 # Contato
-## joel.borghi@gmail.com
+### joel.borghi@gmail.com
