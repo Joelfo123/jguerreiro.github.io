@@ -1,5 +1,5 @@
 
-# _Olá bem-vindo(a)! Você chegou na minha página do github._ 
+_Olá bem-vindo(a)! Você chegou na minha página do github._ 
 
 # Quick Bio
 ```
