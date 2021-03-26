@@ -7,7 +7,7 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
  - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br);
  - [Linkedin](https://www.linkedin.com/in/joel-guerreiro-a35866108)
  - [Github](https://github.com/Joelfo123)
- - [CV/Resume](url)
+ - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
  
 # Projetos
 
