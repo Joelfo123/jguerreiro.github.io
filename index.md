@@ -4,6 +4,7 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 
 ![Image](Archlinux.png)
 
+
 # Quick Bio
 
  - Me chamo Joel e sou apaixonado por tecnologia;
@@ -15,6 +16,7 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
  
  - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
  
+
 # Projetos
 
 1. [Mobile](url)
@@ -25,10 +27,12 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 
 4. [Linux](url)
 
+
 # Blog
 
 - [Artigos](https://techrookie1987.blogspot.com)
 
 
 # Contato
-[joel.borghi@gmail.com]
+
+-joel.borghi@gmail.com
