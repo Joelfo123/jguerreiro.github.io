@@ -1,18 +1,19 @@
-## PORTFOLIO JGUERREIRO
-### BIO
+# PORTFOLIO JGUERREIRO
+_Olá bem-vindo(a)! Você chegou na minha página do github. 
+## QUICK BIO
 
-Olá bem-vindos! Você chegou na minha página do github. 
-Me chamo Joel e em breve me formo em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP. 
-
-Gostaria de te apresentar um pouco dos meus projetos com programação.
+ - Me chamo Joel e sou apaixonado por tecnologia;
+ - Sou graduando em Análise e Desenvolvimento de sistemas pelo Instituto Federal de SP;
+ 
+# Gostaria de te apresentar um pouco dos meus projetos com programação.
 
 ## PROJETOS
-1. Front-end
-2. Back-end
-3. Protótipos de Interface Gráfica
-4. Linux
 
-### Markdown
+1. Front-end
+2. Protótipos de Interface Gráfica
+3. Linux
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,5 +34,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### Contato
-joel.borghi@gmail.com
+# Contato
+## joel.borghi@gmail.com
