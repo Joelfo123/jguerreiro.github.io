@@ -25,7 +25,7 @@ _Olá bem-vindo(a)! Você chegou na minha página do github._
 - Artigo 3
 - Artigo 4
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](archlinux.jpg)
 
 # Contato
 ## joel.borghi@gmail.com
