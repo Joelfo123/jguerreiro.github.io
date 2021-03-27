@@ -1,7 +1,5 @@
-```
-Olá bem-vindo(a)! 
-Você chegou à minha página do github 
-```
+Olá bem-vindo(a)! Você chegou à minha página do github!
+
 [![Image](Archlinux.png)](https://archlinux.org/)
 [_Logo Arch Linux_](https://archlinux.org/)
 
