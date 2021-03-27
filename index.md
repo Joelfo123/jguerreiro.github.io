@@ -1,6 +1,6 @@
-
-_Olá bem-vindo(a)! Você chegou à minha página do github._ 
-
+```
+Olá bem-vindo(a)! Você chegou à minha página do github 
+```
 [![Image](Archlinux.png)](https://archlinux.org/)
 [_Logo Arch Linux_](https://archlinux.org/)
 
@@ -27,8 +27,13 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
  - Inteligência Artificial, estatística e análise de dados
  - Programação Web, Mobile e de Jogos 
  - Engenharia de _Front-end_ e _Back-end_
- - Boas práticas de programação, _Clean Code_, _Design Patterns_
- - Cybersegurança
+ - Boas práticas de programação de engenharia de Software, _Clean Code_, _Design Patterns_
+ - Cybersegurança ( _certificação em andamento_ )
+ - Cloud Computing ( _Certificação AWS em andamento_ )
+ - Versionamento de código ( _git_ )
+ - _Shell Script_
+ - Arquitetura de Software
+ - UML
 
 # { Projetos } ( _em desenvolvimento_ )
 
