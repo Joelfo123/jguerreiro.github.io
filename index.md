@@ -3,12 +3,13 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 
 
 ![Image](Archlinux.png)
+_Logo Arch Linux_
 
 
 # Quick Bio
 
- - Me chamo Joel e sou apaixonado por tecnologia;
- - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br);
+ - Me chamo Joel e sou apaixonado por tecnologia
+ - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br)
  
  - [Linkedin](https://www.linkedin.com/in/joel-guerreiro-a35866108)
  
@@ -17,7 +18,7 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
  - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
  
 
-# Projetos
+# Projetos ( _em desenvolvimento_)
 
 1. [Mobile](url)
 
