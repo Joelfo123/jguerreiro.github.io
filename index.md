@@ -7,7 +7,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
 
 # { Quick Bio }
 
-## { Interesses }
+
 
 ![Image](Perfil.png)
 
@@ -20,7 +20,15 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
  - [Github](https://github.com/Joelfo123)
  
  - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
+
+## { Interesses }
  
+ - Sistemas Operacionais Unixlike
+ - Inteligência Artificial, estatística e análise de dados
+ - Programação Web, Mobile e de Jogos 
+ - Engenharia de _Front-end_ e _Back-end_
+ - Boas práticas de programação, _Clean Code_, _Design Patterns_
+ - Cybersegurança
 
 # { Projetos } ( _em desenvolvimento_ )
 
