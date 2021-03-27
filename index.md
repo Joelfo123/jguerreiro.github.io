@@ -9,7 +9,7 @@ _Olá bem-vindo(a)! Você chegou a minha página do github._
 # Quick Bio
 
 
-[![Image](Perfil.png)]
+[![Image](Perfil.png)
 
 
  - Me chamo Joel e sou apaixonado por tecnologia
