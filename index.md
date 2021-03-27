@@ -6,7 +6,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
 [_Logo Arch Linux_](https://archlinux.org/)
 
 
-# Quick Bio
+# { Quick Bio }
 
 
 ![Image](Perfil.png)
@@ -22,19 +22,19 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
  - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
  
 
-# Projetos ( _em desenvolvimento_)
+# { Projetos } ( _em desenvolvimento_ )
 
-1. [Mobile](url)
+ - [Mobile](url)
 
-2. [Front-end](url)
+ - [Front-end](url)
 
 
 
-# Blog
+# { Blog }
 
 - [Artigos](https://techrookie1987.blogspot.com)
 
 
-# Contato
+# { Contato }
 
 - joel.borghi@gmail.com
