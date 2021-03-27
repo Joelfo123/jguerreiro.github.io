@@ -1,6 +1,5 @@
-```
+
 _Olá bem-vindo(a)! Você chegou à minha página do github._ 
-```
 
 [![Image](Archlinux.png)](https://archlinux.org/)
 [_Logo Arch Linux_](https://archlinux.org/)
@@ -8,6 +7,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
 
 # { Quick Bio }
 
+## { Interesses }
 
 ![Image](Perfil.png)
 
@@ -37,4 +37,4 @@ _Olá bem-vindo(a)! Você chegou à minha página do github._
 
 # { Contato }
 
-- [joel.borghi@gmail.com](url)
+- [joel.borghi@gmail.com](mailto:joel.borghi@gmail.com)
