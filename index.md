@@ -19,6 +19,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - [Github](https://github.com/Joelfo123)
  
  - [CV/Resume](https://docs.google.com/document/d/1pTw8HEwxT3avo0taDlutpqDHt7vlrigVOrRjL81HXpU/edit?usp=sharing)
+ - [Download](Currículo Joel 2021(rj)(3))
 
 ## { Interesses }
  
@@ -37,6 +38,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
 # { Projetos } ( _em desenvolvimento_ )
 
  - [Mobile](https://docs.google.com/presentation/d/1qcTqXFdsYvzwXeyp66MM5-4CDg0MTFaIpScbVcSYMjM/edit?usp=sharing)
+ - [Download](CUSTOM STUDIO(1).pdf)
 
  - [Front-end](https://cursospremium.com.br)
 
