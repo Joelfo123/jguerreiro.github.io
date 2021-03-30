@@ -18,7 +18,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  
  - [Github](https://github.com/Joelfo123)
  
- - [CV/Resume](Currículo Joel)
+ - [CV/Resume](Currículo Joel.pdf)
 
 ## { Interesses }
  
