@@ -1,10 +1,9 @@
 _Olá bem-vindo(a)! Você chegou à minha página do github!_
 
-[![Gif](Matrix.gif)
+![Gif](Matrix.gif)
+
 
 # { Quick Bio }
-
-
 
 ![Image](Perfil.png)
 
@@ -18,13 +17,16 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  
  - [CV/Resume](Currículo Joel.pdf)
 
+
 ## { Certificados } 
 
 ### { Desenvolvimento para dispositivos móveis }
 
+
  - [Dart](https://www.devmedia.com.br/certificado/tecnologia/dart/joel-guerreiro)
  - [Flutter]()( _Certificação em andamento_ )
- - 
+ 
+ 
  ### { Front-end }
  
  - [HTML5](https://www.devmedia.com.br/certificado/tecnologia/html/joel-guerreiro)
@@ -32,11 +34,13 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  ### { Back-end }
  
  - Em construção
- 
+
+
  ### { Cybersegurança e Nuvem }
  
  - [Cybersegurança]() ( _Certificação em andamento_ )
  - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
+
 
 ## { Interesses }
  
@@ -45,7 +49,6 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - Programação Web, Mobile e de Jogos 
  - Engenharia de _Front-end_ e _Back-end_
  - Boas práticas de programação de engenharia de Software, _Clean Code_, _Design Patterns_
-
  - Versionamento de código ( _git_ )
  - _Shell Script_
  - Arquitetura de Software
@@ -56,7 +59,6 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
 
  - [Front-end com WordPress](https://cursospremium.com.br)
-
 
 
 # { Blog }
