@@ -27,16 +27,16 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - [Flutter]()( _Certificação em andamento_ )
  
  
- ### { Front-end }
+### { Front-end }
  
  - [HTML5](https://www.devmedia.com.br/certificado/tecnologia/html/joel-guerreiro)
  
- ### { Back-end }
+### { Back-end }
  
  - Em construção
 
 
- ### { Cybersegurança e Nuvem }
+### { Cybersegurança e Nuvem }
  
  - [Cybersegurança]() ( _Certificação em andamento_ )
  - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
