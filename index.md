@@ -24,7 +24,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
 
 
  - [Dart](https://www.devmedia.com.br/certificado/tecnologia/dart/joel-guerreiro)
- - [Flutter]()( _Certificação em andamento_ )
+ - [Flutter](https://www.devmedia.com.br/certificado/tecnologia/flutter/joel-guerreiro)
  
  
 ### { Front-end }
