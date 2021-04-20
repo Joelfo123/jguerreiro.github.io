@@ -1,9 +1,9 @@
-_Olá bem-vindo(a)! Você chegou à minha página do github!_
+# {_Olá bem-vindo(a)! Você chegou à minha página do github!_}
 
 ![Gif](Matrix.gif)
 
 
-# { Quick Bio }
+## { Sobre }
 
 ![Image](Perfil.png)
 
@@ -42,7 +42,7 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
 
 
-## { Interesses }
+### { Interesses }
  
  - Sistemas Operacionais Unixlike
  - Inteligência Artificial, estatística e análise de dados
@@ -54,18 +54,18 @@ _Olá bem-vindo(a)! Você chegou à minha página do github!_
  - Arquitetura de Software
  - UML
 
-# { Projetos } ( _em desenvolvimento_ )
+### { Projetos } ( _em desenvolvimento_ )
  
  - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
 
  - [Front-end com WordPress](https://cursospremium.com.br)
 
 
-# { Blog }
+### { Blog }
 
 - [Artigos](https://techrookie1987.blogspot.com)
 
 
-# { Contato }
+### { Contato }
 
 - [joel.borghi@gmail.com](mailto:joel.borghi@gmail.com)
