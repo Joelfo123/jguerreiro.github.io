@@ -18,6 +18,7 @@
  - [CV/Resume](Currículo Joel.pdf)
 
 
+
 ## { Certificados } 
 
 ### { Desenvolvimento para dispositivos móveis }
@@ -26,20 +27,42 @@
  - [Dart](https://www.devmedia.com.br/certificado/tecnologia/dart/joel-guerreiro)
  - [Flutter](https://www.devmedia.com.br/certificado/tecnologia/flutter/joel-guerreiro)
  
- 
+
+
 ### { Front-end }
  
  - [HTML5](https://www.devmedia.com.br/certificado/tecnologia/html/joel-guerreiro)
+ - [CSS3](https://www.devmedia.com.br/certificado/tecnologia/css/joel-guerreiro)
+ - [JS](https://www.devmedia.com.br/certificado/tecnologia/javascript/joel-guerreiro)
+
+
  
 ### { Back-end }
  
- - Em construção
+ - [DJANGO](https://www.devmedia.com.br/certificado/tecnologia/django/joel-guerreiro)
+ - [NODE-JS](https://www.devmedia.com.br/certificado/tecnologia/node-js/joel-guerreiro)
+ 
+
+
+### { Banco de Dados }
+
+ - [SQL](https://www.devmedia.com.br/certificado/tecnologia/sql/joel-guerreiro)
+
 
 
 ### { Cybersegurança e Nuvem }
  
  - [Cybersegurança]() ( _Certificação em andamento_ )
  - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
+
+
+
+## { Projetos } ( _em desenvolvimento_ )
+ 
+ - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
+
+ - [Front-end com WordPress](https://cursospremium.com.br)
+
 
 
 ## { Interesses }
@@ -54,16 +77,12 @@
  - Arquitetura de Software
  - UML
 
-## { Projetos } ( _em desenvolvimento_ )
- 
- - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
-
- - [Front-end com WordPress](https://cursospremium.com.br)
 
 
 ## { Blog }
 
 - [Artigos](https://techrookie1987.blogspot.com)
+
 
 
 ## { Contato }
