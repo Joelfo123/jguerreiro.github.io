@@ -52,8 +52,8 @@
 
 ### { Cybersegurança e Nuvem }
  
- - [Cybersegurança]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
- - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
+ - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
+ - [AWS Cloud Computing]() ( _Certificação AWS em andamento_ ) 
 
 
 
