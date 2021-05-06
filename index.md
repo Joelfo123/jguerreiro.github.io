@@ -52,7 +52,7 @@
 
 ### { Cybersegurança e Nuvem }
  
- - [Cybersegurança](Cybersecurity_cert.pdf) ( _Certificado de Conclusão como Aluno_)
+ - [Cybersegurança](jguerreiro.github.io/Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
  - [Cloud Computing]() ( _Certificação AWS em andamento_ ) 
 
 
