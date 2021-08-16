@@ -53,16 +53,18 @@
 ### { Cybersegurançam, Nuvem e Linux }
  
  - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
- - [AWS Cloud Computing](https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
+ - [AWS Cloud Computing]( https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
  - Red Hat System Administration I ( _Em progresso_ )
 
 
 
 ## { Projetos } ( _Desenvolvidos_ )
  
- - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
+ - [Projeto Mobile com Flutter]( https://youtu.be/wsSR7HZ2-hw )
 
- - [Front-end de site de Advocacia com WordPress](https://celioegidioadvogados.com.br/)
+ - [Front-end de site de Advocacia com WordPress]( https://celioegidioadvogados.com.br/ )
+
+ - [Front-end de site básico de pousada com HTML e CSS]( https://youtu.be/PrrwJOxzF0M )
 
 
 
