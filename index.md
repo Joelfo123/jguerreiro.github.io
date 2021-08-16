@@ -9,7 +9,7 @@
 
 
  - Me chamo Joel e sou apaixonado por tecnologia
- - Sou graduando em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br)
+ - Sou graduado em Análise e Desenvolvimento de sistemas pelo [Instituto Federal de SP](https://bra.ifsp.edu.br)
  
  - [Linkedin](https://www.linkedin.com/in/joel-guerreiro-a35866108)
  
@@ -50,29 +50,30 @@
 
 
 
-### { Cybersegurança e Nuvem }
+### { Cybersegurançam, Nuvem e Linux }
  
  - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
  - [AWS Cloud Computing](https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
+ - Red Hat System Administration I ( _Em progresso_ )
 
 
 
-## { Projetos } ( _em desenvolvimento_ )
+## { Projetos } ( _Desenvolvidos_ )
  
  - [Projeto Mobile com Flutter](CUSTOM STUDIO(1).pdf)
 
- - [Front-end com WordPress](https://cursospremium.com.br)
+ - [Front-end de site de Advocacia com WordPress](https://celioegidioadvogados.com.br/)
 
 
 
 ## { Interesses }
  
- - Sistemas Operacionais Unixlike
+ - Sistemas Operacionais Unix-like
  - Inteligência Artificial, estatística e análise de dados
  - Programação Web, Mobile e de Jogos 
  - Engenharia de _Front-end_ e _Back-end_
  - Boas práticas de programação de engenharia de Software, _Clean Code_, _Design Patterns_
- - Versionamento de código ( _git_ )
+ - Versionamento de código ( _Git_ )
  - _Shell Script_
  - Arquitetura de Software
  - UML
