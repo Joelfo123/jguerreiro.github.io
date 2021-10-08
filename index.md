@@ -19,6 +19,18 @@
 
  - [Devmedia](https://www.devmedia.com.br/perfil/joel-guerreiro)
 
+
+## { Projetos } ( _Desenvolvidos_ )
+
+ - [Front-end de site de produtora audiovisual a partir de um projeto gráfico](https://70filmes.com.br/ )
+ 
+ - [Front-end de site básico de pousada do zero com HTML e CSS puros a partir de um projeto gráfico](https://youtu.be/PrrwJOxzF0M)
+
+ - [Projeto de aplicativo para dispositivos móveis com framework Flutter](https://youtu.be/wsSR7HZ2-hw )
+
+ - [Front-end de site de Advocacia com WordPress](https://celioegidioadvogados.com.br/)
+
+
 ## { Certificados } 
 
 ### { Desenvolvimento para dispositivos móveis }
@@ -53,30 +65,16 @@
 ### { Cybersegurançam, Nuvem e Linux }
  
  - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
- - [AWS Cloud Computing]( https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
- - [Red Hat System Administration I] ( cert joel redhat.pdf ) ( _Certificado de Conclusão_ )
-
-
-
-## { Projetos } ( _Desenvolvidos_ )
-
- - [Front-end de site de produtora audiovisual a partir de um projeto gráfico]( https://70filmes.com.br/ )
- 
- - [Front-end de site básico de pousada do zero com HTML e CSS puros]( https://youtu.be/PrrwJOxzF0M )
-
- - [Projeto de aplicativo para dispositivos móveis com framework Flutter]( https://youtu.be/wsSR7HZ2-hw )
-
- - [Front-end de site de Advocacia com WordPress]( https://celioegidioadvogados.com.br/ )
-
-
+ - [AWS Cloud Computing](https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
+ - [Red Hat System Administration I]( cert joel redhat.pdf ) ( _Certificado de Conclusão_ )
 
 
 
 ## { Interesses }
  
- - Sistemas Operacionais Unix-like
+ - Sistemas Operacionais Unix-like, _open-source_ e ambientes gráficos (_Arch linux_, _LXDE_, _KDE_)
  - Inteligência Artificial, estatística e análise de dados
- - Programação Web, Mobile e de Jogos 
+ - Desenvolvimento Web
  - Engenharia de _Front-end_ e _Back-end_
  - Boas práticas de programação de engenharia de Software, _Clean Code_, _Design Patterns_
  - Versionamento de código ( _Git_ )
