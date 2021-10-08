@@ -15,9 +15,9 @@
  
  - [Github](https://github.com/Joelfo123)
  
- - [CV/Resume](Currículo Joel.pdf)
+ - [CV/Resume](Currículo Joel - Dev Jr 10.2021(RJ).pdf)
 
-
+ - [Devmedia](https://www.devmedia.com.br/perfil/joel-guerreiro)
 
 ## { Certificados } 
 
@@ -54,17 +54,21 @@
  
  - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
  - [AWS Cloud Computing]( https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
- - Red Hat System Administration I ( _Em progresso_ )
+ - [Red Hat System Administration I] () ( _Certificado de Conclusão_ )
 
 
 
 ## { Projetos } ( _Desenvolvidos_ )
+
+ - [Front-end de site de produtora audiovisual a partir de um projeto gráfico]( https://70filmes.com.br/ )
  
- - [Projeto Mobile com Flutter]( https://youtu.be/wsSR7HZ2-hw )
+ - [Front-end de site básico de pousada do zero com HTML e CSS puros]( https://youtu.be/PrrwJOxzF0M )
+
+ - [Projeto de aplicativo para dispositivos móveis com framework Flutter]( https://youtu.be/wsSR7HZ2-hw )
 
  - [Front-end de site de Advocacia com WordPress]( https://celioegidioadvogados.com.br/ )
 
- - [Front-end de site básico de pousada com HTML e CSS]( https://youtu.be/PrrwJOxzF0M )
+
 
 
 
