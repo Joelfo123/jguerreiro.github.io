@@ -67,7 +67,7 @@
  - [Cisco Cybersecurity Essentials]( Cybersecurity_cert.pdf ) ( _Certificado de Conclusão como Aluno_ )
  - [AWS Cloud Computing](https://www.credly.com/badges/edf73500-435c-45d0-a1ae-e512d2b633b6) ( _Certificação AWS como "Graduate"_ ) 
  - [Red Hat System Administration RHEL124]( cert joel redhat.pdf ) ( _Certificado de Conclusão_ )
- - [Red Hat System Administrarion RHEL134]( _Em andamento_ )
+ - [Red Hat System Administration RHEL134] ( _Em andamento_ )
 
 
 
